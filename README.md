@@ -5,8 +5,8 @@
 - Third Year Statistics Student at The University of British Columbia
 
 - 📫 How to reach me: akshatkalra2005@gmail.com
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-kalra-783819156/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.akshatkalra.com) [In Progress]
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-kalra-783819156/)
+- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.akshatkalra.com)
 
 
 <!--
