@@ -1,6 +1,9 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm Akshat
 
 
+
+- Third Year Statistics Student at The University of British Columbia ![UBC-logo-2018-crest-blue-rgb72](https://github.com/user-attachments/assets/4cb6c38a-b071-45fb-8cd2-c65e0cdc59e7)
+
  📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-kalra-783819156/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.akshatkalra.com) [In Progress]
