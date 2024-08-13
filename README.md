@@ -11,6 +11,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://akshatkalra.com/)
 
 <h2 align="left">Languages and Tools:</h2>
+
 [![Languages and Tools](https://skillicons.dev/icons?i=js,react,express,nodejs,java,cpp,html,css,mongodb,mysql,tailwind,py)]()
    
 </p>
