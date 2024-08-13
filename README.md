@@ -14,7 +14,10 @@
 <h2 align="left">Connect with me:</h2>
 
 [![Connect with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/akshat-kalra-783819156/)
+
+<!--
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://akshatkalra.com/)
+-->
    
 </p>
 
