@@ -9,6 +9,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-kalra-783819156/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://akshatkalra.com/)
+
+[![Languages and Tools](https://skillicons.dev/icons?i=ts,js,react,express,nodejs,java,mongodb,mysql,tailwind,py)]()
    
 </p>
 
