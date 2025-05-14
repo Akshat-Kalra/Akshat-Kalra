@@ -5,7 +5,6 @@
 
 
 - Third Year Statistics Student at The University of British Columbia
-- 📫 How to reach me: akshatkalra2005@gmail.com
 
 # Languages and Tools:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
