@@ -1,10 +1,19 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm Akshat</h1>
+<h3 align="center">Comp Sci + Stats @ UBC, Vancouver</h3>
 <p align = "center"
    
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)-->
 
+<p>I am a combined major in computer science and statistics at the University of British Columbia.</p>
 
-- Third Year CS and Statistics Student at The University of British Columbia
+# 🌐 How to Reach Me:
+<a href="https://www.linkedin.com/in/akshatkalra5/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="30" />
+</a>
+<a href="mailto:akshatkalra2005@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30" />
+</a>
+
 
 # Languages and Tools:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -22,9 +31,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 <!--[![Languages and Tools](https://skillicons.dev/icons?i=js,react,express,nodejs,java,cpp,html,css,mongodb,mysql,tailwind,py)]()-->
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatkalra5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshatkalra2005@gmail.com) 
 
 <!--
 <h2 align="left">Connect with me:</h2>
