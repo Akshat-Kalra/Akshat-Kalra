@@ -23,7 +23,7 @@
 
 <!--[![Languages and Tools](https://skillicons.dev/icons?i=js,react,express,nodejs,java,cpp,html,css,mongodb,mysql,tailwind,py)]()-->
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatkalra5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshatkalra2005@gmail.com) 
 
 <!--
