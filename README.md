@@ -1,10 +1,11 @@
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)-->
 
 ```
-                            ╱|、
-                          (˚ˎ 。7  
-                           |、˜〵          
-                          じしˍ,)ノ
+                                      ╱|、
+                                     (˚ˎ 。7    ╱|、
+                                      |、˜〵   (˚ˎ 。7
+                                     じしˍ,)ノ  |、˜〵
+                                               じしˍ,)ノ
 ```
 
 <!--credit: https://emojicombos.com/cat-->
